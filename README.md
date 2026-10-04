@@ -23,7 +23,7 @@ Project ini dibuat untuk memenuhi tugas **Pemrograman Web (PBW3B1PBL0101)** meng
 
 1. **Clone Repository ini:**
    ```bash
-   git clone https://github.com/USERNAME/PBW3B1PBL101.git
+   git clone https://github.com/adriaann-bg/PBW3B1PBL101.git
    cd PBW3B1PBL101
    ```
 
@@ -72,7 +72,7 @@ Project ini dibuat untuk memenuhi tugas **Pemrograman Web (PBW3B1PBL0101)** meng
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/USERNAME/PBW3B1PBL101.git
+   git clone https://github.com/adriaann-bg/PBW3B1PBL101.git
    cd PBW3B1PBL101
    ```
 
