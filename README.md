@@ -15,7 +15,7 @@ Project ini dibuat untuk memenuhi tugas **Pemrograman Web (PBW3B1PBL0101)** meng
 ---
 
 ### 📷 Tangkapan Layar Tampilan (Screenshot)
-![Tampilan Application Screenshot](Tangkapan Layar Projek DjangoREST Api - Adrian Syahputra.png)
+![Tampilan Application Screenshot](Tangkapan%20Layar%20Projek%20DjangoREST%20Api%20-%20Adrian%20Syahputra.png)
 
 ---
 
@@ -64,7 +64,7 @@ Project ini dibuat untuk memenuhi tugas **Pemrograman Web (PBW3B1PBL0101)** meng
 ---
 
 ### 📷 Application Screenshot
-![Application Screenshot](Tangkapan Layar Projek DjangoREST Api - Adrian Syahputra.png)
+![Application Screenshot](Tangkapan%20Layar%20Projek%20DjangoREST%20Api%20-%20Adrian%20Syahputra.png)
 
 ---
 
