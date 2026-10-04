@@ -15,8 +15,7 @@ Project ini dibuat untuk memenuhi tugas **Pemrograman Web (PBW3B1PBL0101)** meng
 ---
 
 ### 📷 Tangkapan Layar Tampilan (Screenshot)
-![Tampilan Application Screenshot](screenshot.png)
-*(Catatan: Simpan foto screenshot Anda dengan nama `screenshot.png` di dalam folder utama repository ini).*
+![Tampilan Application Screenshot](Tangkapan Layar Projek DjangoREST Api - Adrian Syahputra.png)
 
 ---
 
@@ -65,8 +64,7 @@ Project ini dibuat untuk memenuhi tugas **Pemrograman Web (PBW3B1PBL0101)** meng
 ---
 
 ### 📷 Application Screenshot
-![Application Screenshot](screenshot.png)
-*(Note: Save your screenshot image as `screenshot.png` in the root folder of this repository).*
+![Application Screenshot](Tangkapan Layar Projek DjangoREST Api - Adrian Syahputra.png)
 
 ---
 
